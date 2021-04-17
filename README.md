@@ -18,7 +18,7 @@ Nombre: Rune
 
 - Test: https://h5p.org/node/1121316
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser:  https://cloud.protopie.io/p/dad23a91ad
 
 - Storytelling: (enlace) 
 
