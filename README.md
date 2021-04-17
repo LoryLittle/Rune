@@ -9,7 +9,7 @@ Proyecto (código):
 ## Resumen
 Una realidad alternativa donde un gran porcentaje de personas manifiesta habilidades sobrehumanas en forma de runas por causas desconocidas, siendo muchos de ellos incapaces de controlar su propio poder. Un gran porcentaje los comienza a utilizar de forma caótica, dando lugar a un mundo distópico en el que Rune, un jóven de 22 años que posee uno de estos dones, tendrá que aprender a controlar el mismo y enfrentarse a las normas del nuevo mundo.
 ### Personaje
-![image](https://i.img-nobody.png)
+![image](https://github.com/LoryLittle/RuneImagen/blob/main/img-nobody.jpg)
 
 
 Nombre: Rune
