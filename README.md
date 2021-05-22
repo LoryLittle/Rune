@@ -20,7 +20,7 @@ Nombre: Rune
 
 - Banner/Teaser:  https://cloud.protopie.io/p/dad23a91ad
 
-- Storytelling: (enlace) 
+- Storytelling: https://utopolis.ugr.es/media/HRUN/U/Rune/
 
 ------
 
